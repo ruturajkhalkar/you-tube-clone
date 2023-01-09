@@ -36,6 +36,5 @@ export default function ChannelDetail() {
         <Videos videos={videos} />
       </Box>
     </Box>
-    
   )
 }

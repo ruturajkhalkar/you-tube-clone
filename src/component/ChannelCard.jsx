@@ -2,8 +2,8 @@ import React from 'react'
 import { Box, CardContent, CardMedia, Typography } from '@mui/material'
 import { CheckCircle } from '@mui/icons-material'
 import { Link } from 'react-router-dom'
-import { borderRadius } from '@mui/system'
-import ChannelDetail from './ChannelDetail'
+
+
 import { demoProfilePicture} from '../utils/constant';
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 
